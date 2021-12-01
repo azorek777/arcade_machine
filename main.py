@@ -29,6 +29,6 @@ eel.start('index.html', mode='chrome')
 
 
 '''
-# uruchamianie w fullscreen mode
+# uruchamianie w fullscreen mode 
 eel.start('index.html', mode='chrome', cmdline_args=['--kiosk'])
 '''
