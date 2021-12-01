@@ -22,10 +22,11 @@ def get_date():
 
 
 @eel.expose
-def get_ip():
+def launch_calc():
     os.system('C:\Windows\System32/calc.exe')
 
 eel.start('index.html', mode='chrome')
+
 
 '''
 # uruchamianie w fullscreen mode
