@@ -15,7 +15,6 @@ def get_random_name():
 def get_random_number():
     eel.prompt_alerts(random.randint(1, 100))
 
-
 @eel.expose
 def get_date():
     eel.prompt_alerts(datetime.now().strftime("%d/%m/%Y %H:%M:%S"))
