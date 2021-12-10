@@ -19,3 +19,39 @@ jackbox party
 
 rzeczy do kupienia:
 
+
+
+
+
+
+PROJEKT MASZYNY:
+
+instrukcja {
+(https://www.instructables.com/Easy-Cab-arcade/?=)
+(https://medium.com/swlh/how-to-build-a-raspberry-pi-arcade-machine-3de4df2894c6)
+(https://www.instructables.com/2-Player-Bartop-Arcade-Machine-Powered-by-Pi/)
+}
+
+
+obudowa:
+    płyty mdf {
+    10mm (https://www.leroymerlin.pl/elementy-mebli-i-okucia/plyty-wykonczeniowe/plyty-mdf/plyta-mdf-10-mm-280-x-207-cm,p3778,l1894.html)
+    18mm - 46zł (https://www.leroymerlin.pl/elementy-mebli-i-okucia/plyty-wykonczeniowe/plyty-mdf/plyta-mdf-18-mm-280-x-207-cm,p250138,l1894.html)
+    }
+
+    pleksi na ekran{
+    8mm - 3,8zł/0.01m2 (https://allegro.pl/oferta/plexi-pleksi-przezroczysta-8mm-na-wymiar-6591708556)
+    }
+
+    uchwyt na monitor
+    wkręty, kątowniki, jakiś mocny klej
+    farby, naklejki, ledy
+
+elektronika:
+    monitor
+    glośniki wraz z kablem minijack (https://allegro.pl/oferta/glosniki-komputerowe-drewniane-usb-jack-6w-do-pc-11114495107)
+    klawiatura
+    myszka
+    komputer
+    joystick (https://pl.aliexpress.com/item/1005002468364517.html)
+
