@@ -6,15 +6,22 @@
     <title>Eel example</title>
 
     <link rel="stylesheet" href="css/main.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@700&display=swap" rel="stylesheet">
     <script type="text/javascript" src="/eel.js"></script>
 </head>
 <body>
-    <div class="topnav">
-        <a class="active" id="button-name">Display name</a>
-        <a id="button-number">Random number</a>
-        <a id="button-date">Display time and date</a>
-        <a id="launch-calc">Launch calculator</a>
-      </div>
+
+<header onload="odliczanie();">
+    <div class="header-time" id="date">siema</div>
+</header>
+
+<div><a id="button-name">Display name</a></div>
+<div><a id="button-number">Random number</a></div>
+<div><a id="button-date">Display time and date</a></div>
+<div><a id="launch-calc" class="neon-button">Launch calculator</a>
+<a id="launch-cmd" class="neon-button">Snipping tool</a></div>
+
 </body>
 <script src="js/main.js"></script>
 </html>

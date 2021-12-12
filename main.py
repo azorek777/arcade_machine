@@ -24,6 +24,12 @@ def get_date():
 def launch_calc():
     os.system('C:\Windows\System32/calc.exe')
 
+@eel.expose
+def launch_cmd():
+    os.system('C:\Windows\System32/SnippingTool.exe')
+
+
+
 eel.start('index.html', mode='chrome')
 
 
