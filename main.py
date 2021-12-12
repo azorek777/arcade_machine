@@ -22,16 +22,21 @@ def get_date():
 
 @eel.expose
 def launch_calc():
-    os.system('C:\Windows\System32/calc.exe')
+    os.system('calc')
 
 @eel.expose
 def launch_cmd():
-    os.system('C:\Windows\System32/SnippingTool.exe')
+    os.system('cmd')
+
+@eel.expose
+def launch_taskmgr():
+    os.system('taskmgr')
+
+
 
 
 
 eel.start('index.html', mode='chrome')
-
 
 '''
 # uruchamianie w fullscreen mode 

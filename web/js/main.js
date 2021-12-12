@@ -3,7 +3,7 @@ document.getElementById("button-number").addEventListener("click", ()=>{eel.get_
 document.getElementById("button-date").addEventListener("click", ()=>{eel.get_date()}, false);
 document.getElementById("launch-calc").addEventListener("click", ()=>{eel.launch_calc()}, false);
 document.getElementById("launch-cmd").addEventListener("click", ()=>{eel.launch_cmd()}, false);
-
+document.getElementById("launch-taskmgr").addEventListener("click", ()=>{eel.launch_taskmgr()}, false);
 
 eel.expose(prompt_alerts);
 function prompt_alerts(description) {
@@ -23,5 +23,6 @@ if (s<10) {
 }
 document.getElementById("date").innerHTML = m + "/" + d + "/" + y +
     "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" + h + ":" + min + ":" + s;
+
 
 
