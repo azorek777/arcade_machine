@@ -14,29 +14,31 @@ def get_random_name():
 @eel.expose
 def get_random_number():
     eel.prompt_alerts(random.randint(1, 100))
+    print('dupa')
+
 
 @eel.expose
 def get_date():
     eel.prompt_alerts(datetime.now().strftime("%d/%m/%Y %H:%M:%S"))
+    return datetime.now().strftime("%d/%m/%Y %H:%M:%S")
 
 
 @eel.expose
 def launch_calc():
     os.system('calc')
 
+
 @eel.expose
 def launch_cmd():
-    os.system('cmd')
+    os.system('mspaint')
+
 
 @eel.expose
 def launch_taskmgr():
     os.system('taskmgr')
 
 
-
-
-
-eel.start('index.html', mode='chrome')
+eel.start('index.html', mode='chrome', cmdline_args=['--kiosk'])
 
 '''
 # uruchamianie w fullscreen mode 
