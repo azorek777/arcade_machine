@@ -1,46 +1,28 @@
-gry na 1 osobe:
-pacman (https://www.microsoft.com/pl-pl/p/pacmanfree/9nblggh64t86)
-deluxe ski jumping 2.1 (https://download.komputerswiat.pl/gry-i-rozrywka/gry-sportowe/deluxe-ski-jump-2)
-tetris (https://www.microsoft.com/pl-pl/p/tetrisnet/9mvw4gxkb254?activetab=pivot:overviewtab)
+Gry na 1 osobę:
+	- pacman (https://www.microsoft.com/pl-pl/p/pacmanfree/9nblggh64t86)
+	- deluxe ski jumping 2.1 (https://download.komputerswiat.pl/gry-i-rozrywka/gry-sportowe/deluxe-ski-jump-2)
+	- tetris (https://www.microsoft.com/pl-pl/p/tetrisnet/9mvw4gxkb254?activetab=pivot:overviewtab)
+	- mario (https://download.komputerswiat.pl/gry-i-rozrywka/gry-platformowe/super-mario-bros)
 
 
-gry na 2 osoby:
-fireboy and watergirl (https://www.microsoft.com/en-us/p/fireboy-and-watergirl-elements/9nsp5n3b7q32)
-overcooked (https://gg.deals/game/overcooked/)
-overcooked 2 (https://gg.deals/game/overcooked-2/)
-rayman legends (https://gg.deals/game/rayman-legends/)
-lego indiana jones (https://gg.deals/game/lego-indiana-jones-the-original-adventures/)
-cuphead (https://gg.deals/game/cuphead/0
-avicii invector (https://gg.deals/game/avicii-invector/)
-
-(typowe stare arcade - możemy wziąć kilka z nich):
-    - Mario Bros,
-	- Sengoku 3,
-	- Strikers 1945 Plus,
-	- DonPachi,
-	- Final Fight,
-	- Bubble Bobble,
-	- Joust,
-	- Battle Flip Shot,
-	- Double Dragon,
-	- Snow Bros,
-	- Raiden,
-	- King of Fighters 2000,
-	- Money Idol Exchanger.
+Gry na 2 osoby:
+	- fireboy and watergirl (https://www.microsoft.com/en-us/p/fireboy-and-watergirl-elements/9nsp5n3b7q32)
+	- overcooked (https://gg.deals/game/overcooked/)
+	- overcooked 2 (https://gg.deals/game/overcooked-2/)
+	- rayman legends (https://gg.deals/game/rayman-legends/)
+	- lego indiana jones (https://gg.deals/game/lego-indiana-jones-the-original-adventures/)
+	- cuphead (https://gg.deals/game/cuphead/0
+	- avicii invector (https://gg.deals/game/avicii-invector/)
+	- galaga (https://gg.deals/game/arcade-game-series-galaga/)
+	- Bubble Bobble (https://download.komputerswiat.pl/gry-i-rozrywka/gry-zrecznosciowe/bubble-bobble-nostalgie)
 
 
-inne gry:
-jackbox party
-
-
-rzeczy do kupienia:
+Inne gry:
+	- jackbox party
 
 
 
-
-
-
-PROJEKT MASZYNY:
+Projekt maszyny:
 
 instrukcja {
 (https://www.instructables.com/Easy-Cab-arcade/?=)
@@ -48,6 +30,7 @@ instrukcja {
 (https://www.instructables.com/2-Player-Bartop-Arcade-Machine-Powered-by-Pi/)
 }
 
+rzeczy do kupienia:
 
 obudowa:
     płyty mdf {
