@@ -1,56 +1,58 @@
-gry na 1 osobe:
-pacman (https://www.microsoft.com/pl-pl/p/pacmanfree/9nblggh64t86)
-deluxe ski jumping 2.1 (https://download.komputerswiat.pl/gry-i-rozrywka/gry-sportowe/deluxe-ski-jump-2)
+Gry na 1 osobę:
+	- pacman (https://www.microsoft.com/pl-pl/p/pacmanfree/9nblggh64t86)
+	- deluxe ski jumping 2.1 (https://download.komputerswiat.pl/gry-i-rozrywka/gry-sportowe/deluxe-ski-jump-2)
+	- tetris (https://www.microsoft.com/pl-pl/p/tetrisnet/9mvw4gxkb254?activetab=pivot:overviewtab)
+	- mario (https://download.komputerswiat.pl/gry-i-rozrywka/gry-platformowe/super-mario-bros)
 
 
-
-gry na 2 osoby:
-fireboy and watergirl (https://www.microsoft.com/en-us/p/fireboy-and-watergirl-elements/9nsp5n3b7q32)
-overcooked (https://gg.deals/game/overcooked/)
-overcooked 2 (https://gg.deals/game/overcooked-2/)
-rayman legends (https://gg.deals/game/rayman-legends/)
-
-(typowe stare arcade - możemy wziąć kilka z nich):
-    - Mario Bros,
-	- Sengoku 3,
-	- Strikers 1945 Plus,
-	- DonPachi,
-	- Final Fight,
-	- Bubble Bobble,
-	- Joust,
-	- Battle Flip Shot,
-	- Double Dragon,
-	- Snow Bros,
-	- Raiden,
-	- King of Fighters 2000,
-	- Money Idol Exchanger.
+Gry na 2 osoby:
+	- fireboy and watergirl (https://www.microsoft.com/en-us/p/fireboy-and-watergirl-elements/9nsp5n3b7q32)
+	- overcooked (https://gg.deals/game/overcooked/)
+	- overcooked 2 (https://gg.deals/game/overcooked-2/)
+	- rayman legends (https://gg.deals/game/rayman-legends/)
+	- lego indiana jones (https://gg.deals/game/lego-indiana-jones-the-original-adventures/)
+	- cuphead (https://gg.deals/game/cuphead/0
+	- avicii invector (https://gg.deals/game/avicii-invector/)
+	- galaga (https://gg.deals/game/arcade-game-series-galaga/)
+	- Bubble Bobble (https://download.komputerswiat.pl/gry-i-rozrywka/gry-zrecznosciowe/bubble-bobble-nostalgie)
 
 
+Inne gry:
+	- jackbox party
+
+
+<<<<<<< HEAD
 inne gry:
 jackbox party
-s
 
 
 rzeczy do kupienia:
+projekt 7$ (https://www.thegeekpub.com/product/arcade-cabinet-plans/#add_to_cart)
 
+joystick 183zł (https://pl.aliexpress.com/item/4001298797758.html)
+	      (https://pl.aliexpress.com/item/4000004457937.html)
 
+pasek led 50cm (https://pl.aliexpress.com/item/1005003112756281.html)
 
 
 
 
 PROJEKT MASZYNY:
+=======
+
+Projekt maszyny:
+>>>>>>> origin/master
 
 instrukcja {
 (https://www.instructables.com/Easy-Cab-arcade/?=)
 (https://medium.com/swlh/how-to-build-a-raspberry-pi-arcade-machine-3de4df2894c6)
-(https://www.instructables.com/2-Player-Bartop-Arcade-Machine-Powered-by-Pi/)
 }
 
+rzeczy do kupienia:
 
 obudowa:
     płyty mdf {
     10mm (https://www.leroymerlin.pl/elementy-mebli-i-okucia/plyty-wykonczeniowe/plyty-mdf/plyta-mdf-10-mm-280-x-207-cm,p3778,l1894.html)
-    18mm - 46zł (https://www.leroymerlin.pl/elementy-mebli-i-okucia/plyty-wykonczeniowe/plyty-mdf/plyta-mdf-18-mm-280-x-207-cm,p250138,l1894.html)
     }
 
     pleksi na ekran{
@@ -63,7 +65,7 @@ obudowa:
 
 elektronika:
     monitor
-    glośniki wraz z kablem minijack (https://allegro.pl/oferta/glosniki-komputerowe-drewniane-usb-jack-6w-do-pc-11114495107)
+    glośniki wraz z kablem minijack (https://allegro.pl/oferta/dwa-mini-glosniki-usb-6w-sp-201-10824239583)
     klawiatura
     myszka
     komputer
