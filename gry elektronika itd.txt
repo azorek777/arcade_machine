@@ -17,16 +17,27 @@ Gry na 2 osoby:
 	- Bubble Bobble (https://download.komputerswiat.pl/gry-i-rozrywka/gry-zrecznosciowe/bubble-bobble-nostalgie)
 
 
+Typowe stare arcade - możemy wziąć kilka z nich:
+    - Mario Bros,
+	- Sengoku 3,
+	- Strikers 1945 Plus,
+	- DonPachi,
+	- Final Fight,
+	- Bubble Bobble,
+	- Joust,
+	- Battle Flip Shot,
+	- Double Dragon,
+	- Snow Bros,
+	- Raiden,
+	- King of Fighters 2000,
+	- Money Idol Exchanger.
+
+
 Inne gry:
 	- jackbox party
 
 
-<<<<<<< HEAD
-inne gry:
-jackbox party
-
-
-rzeczy do kupienia:
+Rzeczy do kupienia:
 projekt 7$ (https://www.thegeekpub.com/product/arcade-cabinet-plans/#add_to_cart)
 
 joystick 183zł (https://pl.aliexpress.com/item/4001298797758.html)
@@ -38,10 +49,6 @@ pasek led 50cm (https://pl.aliexpress.com/item/1005003112756281.html)
 
 
 PROJEKT MASZYNY:
-=======
-
-Projekt maszyny:
->>>>>>> origin/master
 
 instrukcja {
 (https://www.instructables.com/Easy-Cab-arcade/?=)
